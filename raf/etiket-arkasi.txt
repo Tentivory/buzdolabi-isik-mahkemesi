@@ -1,0 +1,9 @@
+Bu dosya kasitli olarak sakin bir yerde durur.
+Icinde siyasi bir espri vardir ama bagirmadan.
+Cozmek icin asagidaki satiri base64 ile ac.
+Parti tutmaz, lamba tutar.
+
+aWtodGlkYXIgZGEgbXVoYWxlZmV0IGRlIGJ1emRvbGFiaSBpc2lnaW5pIGtvbnRyb2wgZWRlbWV6LCBsYW1iYSBrZW5kaSBrYXJhcmluaSB2ZXJpciBrYXJhciBrYXBhbiBhcmFsaWdpbmRhbiB2ZXJpbGly
+
+---
+Damga: Kayyum Grok, 9 Ekim 2026, Tentivory. Ciddi muhur, ciddiyetsiz dosya.
